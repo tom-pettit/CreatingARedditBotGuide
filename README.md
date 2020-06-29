@@ -18,4 +18,10 @@ Because I couldn't seem to find a good one when I needed it :/
 - Installed App: This is something like a phone app that each user of the app installs on their phone, so it would use one API key, but there are lots of different devices making requests for lots of different users.
 - Script: This is the easiest one, which doesn't have any session based on tokens (refresh and access tokens).
 
+> I'm aware this is not the best explanation / the most in depth. So if you do want to find out more, visit: https://github.com/reddit-archive/reddit/wiki/OAuth2-App-Types#script-app. 
+
 > If you're just making a bot for say moderation or responding to comments or posting on a subreddit then the *SCRIPT* category is the one for you! 
+
+- Description: A short description of what your bot will do. (This doesn't have to be complicated, just a brief one will do!)
+
+- About URL: 
