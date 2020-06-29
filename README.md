@@ -9,5 +9,7 @@ Because I couldn't seem to find a good one when I needed it :/
 
 **Step 3**
 > You will be presented with this screen:
-[![INSERT YOUR GRAPHIC HERE](https://snipboard.io/FUY3wA.jpg)]()
+[![NEW APP SCREEN](https://snipboard.io/FUY3wA.jpg)]()
 
+- Name: Enter the name of what you want your bot to be called
+- Web App / Installed App / Script: This is slightly more complicated. 
