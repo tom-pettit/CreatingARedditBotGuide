@@ -1,7 +1,9 @@
-# A short, simple guide on how to set up your own reddit bot.
+# A short, simple guide on how to do set up a reddit bot.
 Because I couldn't seem to find a good one when I needed it :/
 
 **Step 1**
+> WARNING: This bot will operate on the reddit account used to create it. Thus, if you want your bot to run on its own reddit account, you need to create a new reddit account and then do the following steps.
+
 > Visit: https://old.reddit.com/prefs/apps/
 
 **Step 2**
@@ -41,6 +43,24 @@ Because I couldn't seem to find a good one when I needed it :/
 [![CREATED APP SCREEN](https://snipboard.io/JWTSzG.jpg)]()
 
 > I have replaced my client id, client secret and reddit account, for privacy reasons :)
+
+- Now, you have the Client ID and Client Secret for your own bot!
+
+**Step 5**
+> There are plenty of very good tutorials on how to do the actual programming of the bot from here. This guide is just intended for you to do the part of the setup on reddit itself. 
+> Having said that though, if you want me to do a tutorial on how to do the programming part as well then I can!
+
+> One of the tutorials I recommend: https://www.youtube.com/watch?v=wAN8b38U_8c. This goes through how to do what I've said in this guide, as well as an example program. 
+
+**One last thing...**
+- Reddit bots can be fun to make and aren't hard for beginners to create. However, newly created bots made my beginners have been known to cause issues for subreddit moderators in the past. Therefore, please may anyone new to this please follow the 'bottiquette', which can be found here: https://www.reddit.com/wiki/bottiquette.
+
+> I hope this article came in handy for people and maybe clears up some confusion for people :)
+
+
+Thanks for reading,
+~ tozzzer
+
 
 
 
