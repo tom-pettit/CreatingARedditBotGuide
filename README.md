@@ -24,4 +24,10 @@ Because I couldn't seem to find a good one when I needed it :/
 
 - Description: A short description of what your bot will do. (This doesn't have to be complicated, just a brief one will do!)
 
-- About URL: 
+- About URL: If you have a website related to the app, then you can put the link of this website here. this is NOT REQUIRED.
+
+- Redirect URI: This is the location that the authorization server will send to the user once the app has been successfully authorised, and granted an authorisation code or access token. 
+> Now, I'm aware this is also another not great description, so for those who are interested, this explains it better: https://www.oauth.com/oauth2-servers/redirect-uris/.
+> However, what most people use for this field is: http://localhost:8080!
+
+
