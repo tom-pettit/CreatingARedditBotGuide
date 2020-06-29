@@ -28,6 +28,12 @@ Because I couldn't seem to find a good one when I needed it :/
 
 - Redirect URI: This is the location that the authorization server will send to the user once the app has been successfully authorised, and granted an authorisation code or access token. 
 > Now, I'm aware this is also another not great description, so for those who are interested, this explains it better: https://www.oauth.com/oauth2-servers/redirect-uris/.
+
 > However, what most people use for this field is: http://localhost:8080!
+
+- I know this may be a lot to read, and if you are revisiting this then you may not want to read through all this again, and so an example screenshot would be more useful. So here you go: 
+
+[![TUTORIAL APP SCREEN](https://snipboard.io/vStXCo.jpg)]()
+
 
 
