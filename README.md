@@ -35,5 +35,12 @@ Because I couldn't seem to find a good one when I needed it :/
 
 [![TUTORIAL APP SCREEN](https://snipboard.io/vStXCo.jpg)]()
 
+**Step 4**
+> Once you have clicked 'create app', you will be able to see the following:
+
+[![CREATED APP SCREEN](https://snipboard.io/JWTSzG.jpg)]()
+
+> I have replaced my client id, client secret and reddit account, for privacy reasons :)
+
 
 
