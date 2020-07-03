@@ -1,5 +1,4 @@
 # A short, simple guide on how to do set up a reddit bot.
-Because I couldn't seem to find a good one when I needed it :/
 
 **Step 1**
 > WARNING: This bot will operate on the reddit account used to create it. Thus, if you want your bot to run on its own reddit account, you need to create a new reddit account and then do the following steps.
